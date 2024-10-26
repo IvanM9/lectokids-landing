@@ -8,18 +8,16 @@
       "@context": "http://schema.org",
       "@type": "Organization",
       "name": "Lectokids",
-      "description": "",
-      "url": "https://luna-landing-rust.vercel.app/",
+      "description": "LectoKids es una plataforma educativa que ayuda a mejorar la comprensión lectora de los niños a través de lecturas adaptadas a su nivel e intereses.",
+      "url": "https://lectokids.vercel.app/",
       "logo": "./public/favicon.svg",
       "contactPoint": {
         "@type": "ContactPoint",
-        "email": "luna-landing@luna.com",
+        "email": "mauricio.9.inm@gmail.com",
         "contactType": "Client Service"
       },
       "sameAs": [
-        "https://www.twitter.com/yourpage",
-        "https://www.instagram.com/yourpage",
-        "https://www.linkedin.com/company/yourpage"
+        "https://www.linkedin.com/in/iv%C3%A1n-manzaba"
       ]
     }
   },
@@ -27,7 +25,7 @@
     "logo": "Lectokids",
     "links": [
       { "label": "Acerca de", "href": "#" },
-      { "label": "Universidad", "href": "https://www.uteq.edu.ec/" },
+      { "label": "Portal de la UTEQ", "href": "https://www.uteq.edu.ec/" },
       { "label": "Iniciar sesión", "href": "https://lectokids.vercel.app/login" }
     ]
   },
@@ -62,21 +60,28 @@
     ]
   },
   "adventajesData": {
-    "title": "    Unlock the Power of Luna Landing: Discover the Key Benefits",
+    "title": "Revoluciona la Lectura Comprensiva con IA",
     "adventajes": [
       {
-        "title": "Take Your Website to Perfection",
-        "description": "Our intuitive customization options empower you to create a website that stands out and resonates with your audience like never before. Say goodbye to cookie-cutter designs and hello to a website that truly reflects your vision and personality.",
-        "img": "template.webp",
+        "title": "Integración de IA",
+        "description": "La magia de la IA no se detiene en la creación de lecturas y actividades, sino que también se extiende a la evaluación de las respuestas de los estudiantes. La IA de Lectokids es capaz de evaluar las respuestas de los estudiantes y proporcionar retroalimentación instantánea.",
+        "img": "lectokids.png",
         "imageAlt": "this is an image about the template service adventajes",
-        "checks": ["Colors", "Fonts", "Layout"]
+        "checks": ["Lecturas", "Acividades", "Retroalimentación inmediata"]
       },
       {
-        "title": "Reach the Top of Search Rankings",
-        "description": "Elevate your online visibility with our SEO-optimized template. Built with search engine algorithms in mind, our template is designed to help your website climb to the top of search engine results pages (SERPs). From optimized meta tags and clean HTML structure to mobile responsiveness and fast loading times, every aspect of our template is geared towards maximizing your website's search engine performance. Increase your organic traffic, attract more visitors, and grow your online presence with ease.",
+        "title": "Personalización",
+        "description": "Lectokids permite a los profesores personalizar las lecturas y actividades de acuerdo con las necesidades y habilidades de sus estudiantes. Los profesores pueden crear cursos personalizados y asignar lecturas y actividades específicas a cada estudiante.",
         "img": "seo.webp",
         "imageAlt": "this is an image about the SEO adventajes",
-        "checks": ["Search Visibility", "Organic Traffic", "Online Credibility"]
+        "checks": []
+      },
+      {
+        "title": "Beneficios para los estudiantes",
+        "description": "Los estudiantes pueden disfrutar de una experiencia de aprendizaje interactiva y adaptada a sus necesidades. La aplicación ofrece una amplia variedad de lecturas y actividades de comprensión lectora, que permiten a los estudiantes mejorar sus habilidades de lectura y comprensión.",
+        "img": "seo.webp",
+        "imageAlt": "this is an image about the SEO adventajes",
+        "checks": []
       }
     ]
   },
@@ -161,20 +166,12 @@
     ]
   },
   "footerData": {
-    "logo": "Luna Landing",
-    "description": "Discover the Beauty of the Cosmos: Explore the Infinite Wonders of Space with Us",
+    "logo": "Lectokids",
+    "description": "LectoKids es una plataforma educativa que ayuda a mejorar la comprensión lectora de los niños a través de lecturas adaptadas a su nivel e intereses.",
     "links": [
-      { "label": "About", "href": "/" },
-      { "label": "Services", "href": "/" },
-      { "label": "Blog", "href": "/" },
-      { "label": "FAQs", "href": "/" },
-      { "label": "Contact", "href": "/" }
     ],
     "socials": [
-      { "icon": "FacebookIcon", "href": "/" },
-      { "icon": "InstagramIcon", "href": "/" },
-      { "icon": "TwitterIcon", "href": "/" },
-      { "icon": "GithubIcon", "href": "/" }
+      { "icon": "GithubIcon", "href": "https://github.com/IvanM9" }
     ]
   }
 }
