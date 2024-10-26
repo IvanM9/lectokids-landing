@@ -24,7 +24,6 @@
   "headerData": {
     "logo": "Lectokids",
     "links": [
-      { "label": "Acerca de", "href": "#" },
       { "label": "Portal de la UTEQ", "href": "https://www.uteq.edu.ec/" },
       { "label": "Iniciar sesión", "href": "https://lectokids.vercel.app/login" }
     ]
@@ -66,22 +65,22 @@
         "title": "Integración de IA",
         "description": "La magia de la IA no se detiene en la creación de lecturas y actividades, sino que también se extiende a la evaluación de las respuestas de los estudiantes. La IA de Lectokids es capaz de evaluar las respuestas de los estudiantes y proporcionar retroalimentación instantánea.",
         "img": "lectokids.png",
-        "imageAlt": "this is an image about the template service adventajes",
+        "imageAlt": "Esta es una imagen sobre las características de Lectokids",
         "checks": ["Lecturas", "Acividades", "Retroalimentación inmediata"]
       },
       {
         "title": "Personalización",
         "description": "Lectokids permite a los profesores personalizar las lecturas y actividades de acuerdo con las necesidades y habilidades de sus estudiantes. Los profesores pueden crear cursos personalizados y asignar lecturas y actividades específicas a cada estudiante.",
-        "img": "seo.webp",
-        "imageAlt": "this is an image about the SEO adventajes",
-        "checks": []
+        "img": "login_teacher.webp",
+        "imageAlt": "Esta es una imagen sobre los beneficios para los profesores",
+        "checks": ["Generación de contenido", "Seguimiento de progreso"]
       },
       {
         "title": "Beneficios para los estudiantes",
         "description": "Los estudiantes pueden disfrutar de una experiencia de aprendizaje interactiva y adaptada a sus necesidades. La aplicación ofrece una amplia variedad de lecturas y actividades de comprensión lectora, que permiten a los estudiantes mejorar sus habilidades de lectura y comprensión.",
-        "img": "seo.webp",
-        "imageAlt": "this is an image about the SEO adventajes",
-        "checks": []
+        "img": "login_student.webp",
+        "imageAlt": "Esta es una imagen sobre los beneficios para los estudiantes",
+        "checks": ["Lecturas personalizadas", "Actividades variadas"]
       }
     ]
   },
@@ -171,7 +170,8 @@
     "links": [
     ],
     "socials": [
-      { "icon": "GithubIcon", "href": "https://github.com/IvanM9" }
+      { "icon": "GithubIcon", "href": "https://github.com/IvanM9" },
+      { "icon": "LinkedinIcon", "href": "https://www.linkedin.com/in/iv%C3%A1n-manzaba" }
     ]
   }
 }

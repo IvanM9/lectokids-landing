@@ -131,4 +131,5 @@ export type Icon =
   | "SolidIcon"
   | "VueIcon"
   | "VercelIcon"
-  | "NetlifyIcon";
+  | "NetlifyIcon"
+  | "LinkedinIcon";
