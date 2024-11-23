@@ -24,13 +24,15 @@
   "headerData": {
     "logo": "Lectokids",
     "links": [
+      {"label": "Portal de F&C", "href": "https://fyc.uteq.edu.ec/"},
       { "label": "Portal de la UTEQ", "href": "https://www.uteq.edu.ec/" },
-      { "label": "Iniciar sesión", "href": "https://lectokids.vercel.app/login" }
+      { "label": "Sitio web del desarrollador", "href": "https://ivan-manzaba.vercel.app/" },
+      { "label": "Iniciar sesión", "href": "https://fyc.uteq.edu.ec/lectokids_app/login" }
     ]
   },
   "heroData": {
     "title": "Potencia tu mente, expande tu mundo: Bienvenidos a ",
-    "primaryCta": "Mi sitio web",
+    "primaryCta": "Iniciar sesión",
     "highlightedTitle": "Lectokids"
   },
   "servicesData": {
