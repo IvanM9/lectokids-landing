@@ -11,4 +11,6 @@ export default defineConfig({
     ? "http://localhost:4321"
     : "https://fyc.uteq.edu.ec/lectokids",
   integrations: [tailwind(), sitemap(), robotsTxt()],
+  base: "/lectokids",
+  // output: "static"
 });
